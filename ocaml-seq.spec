@@ -40,7 +40,7 @@ używających biblioteki OCamla seq.
 
 %package devel
 Summary:	Compatibility package for OCaml's standard iterator type starting from 4.07 - development part
-Summary(pl.UTF-8):	Pakiet zgodności ze typem standardowego iteratora z OCamla >= 4.07 - cześć programistyczna
+Summary(pl.UTF-8):	Pakiet zgodności ze typem standardowego iteratora z OCamla >= 4.07 - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
